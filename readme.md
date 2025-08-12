@@ -19,4 +19,6 @@ The vision of this project is to create a fair and transparent rewards system on
 - **Off-chain Integration:** Connect with web or mobile apps to gamify daily check-ins.
 
 ## 5. Contract Address
-SPXXXXXX.daily-checkin-rewards
+Contract Address: ST1TBJABVHFTRC8AX6W5W3BPYJEX75T6D1W7F6Q46.daily-check-in-rewards
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/1fa658e2-c76a-4137-9246-2953f4c5194e" />
+
